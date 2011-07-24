@@ -1,11 +1,11 @@
 NKO Resume - Aashay Desai
 ===========
 
-Hi!  This is my NKO resume.  I'm using this to tell you a little bit about myself so you can decide whether or not we'd be a good fit together for Node Knockout.  If you'd like to tell me more about yourself, you can fork this!
+Hi!  This is my NKO resume.  I'm using this to tell you a little bit about myself so you can decide whether or not we'd be a good fit together for [Node Knockout](http://nodeknockout.com/).  If you'd like to tell me more about yourself, you can fork this!
 
 About me 
 -------------
-I'm a software engineer in Quality on the Salesforce.com API team by day, and a co-founder of AnonyMou.se by night.  I use Node.JS for the latter and I'm always looking to improve my NodeFu.  I've been using Node.JS for about 6 months.
+I'm a software engineer in Quality on the [Salesforce.com API](http://www.force.com) team by day, and a co-founder of [AnonyMouse](http://anonymou.se) by night.  I use Node.JS for the latter and I'm always looking to improve my NodeFu.  I've been using Node.JS for about 6 months.
 
 I graduated in 2007 from the University of Illinois with a BS in General Engineering, and did a stint at a consulting company before my current job.
 
@@ -16,9 +16,9 @@ Connect with me on [Twitter](http://twitter.com/aashay) or [GitHub](http://githu
 
 Projects
 -----------
-* [AnonyMou.se](http://anonymou.se) - Mentoring platform (code is private at the moment)
+* [AnonyMouse](http://anonymou.se) - Mentoring platform (code is private at the moment)
 * [StreamForce](https://github.com/AashaySFDC/StreamForce) - tiny demo for Force.com Streaming API (Cometd/Bayeux API), still in progress
-* [Hack For Change/AnonyMouse](https://github.com/hackforchange/AnonyMouse) - SMS based demo of AnonyMouse, 2nd place winner at Change.org's [Hack For Change](http://hackforchange.com) hackathon
+* [Hack For Change/AnonyMouse](https://github.com/hackforchange/AnonyMouse) - SMS based demo of AnonyMouse, 2nd place winner at Change.org's [Hack For Change](http://hackforchange.com) hackathon.  Probably your best bet if you want to see some existing Node.JS code.
 * [Random Stuff on GitHub](http://github.com/aashay) - A few random things including a couple of tiny Ruby projects
 
 Node stuff I've used: 
